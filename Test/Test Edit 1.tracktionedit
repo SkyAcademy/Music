@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EDIT appVersion="Waveform 11.0.26" projectID="1bc477/5e9942" creationTime="1590006817610"
+      lastSignificantChange="17255a63831" modifiedBy="PC Niels">
+  <TRANSPORT position="82.29999999992496" scrubInterval="0.6958190732045112"
+             loopPoint1="0.0" loopPoint2="0.0"/>
+  <MACROPARAMETERS id="1001"/>
+  <TEMPOSEQUENCE>
+    <TEMPO startBeat="0.0" bpm="100.0" curve="1.0"/>
+    <TIMESIG numerator="4" denominator="4" startBeat="0.0"/>
+  </TEMPOSEQUENCE>
+  <PITCHSEQUENCE>
+    <PITCH startBeat="0.0" pitch="60"/>
+  </PITCHSEQUENCE>
+  <VIDEO/>
+  <AUTOMAPXML/>
+  <CLICKTRACK level="0.6025595664978027" active="0"/>
+  <ID3VORBISMETADATA trackNumber="1" date="2020"/>
+  <MASTERVOLUME>
+    <PLUGIN type="volume" volume="0.6376281380653381" id="1003" enabled="1">
+      <MACROPARAMETERS id="1005"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+  </MASTERVOLUME>
+  <RACKS/>
+  <MASTERPLUGINS/>
+  <AUXBUSNAMES/>
+  <INPUTDEVICES>
+    <INPUTDEVICE name="USB MIDI Controller">
+      <INPUTDEVICEDESTINATION targetTrack="1038" targetIndex="0" armed="1"/>
+    </INPUTDEVICE>
+    <INPUTDEVICE sourceTrack="1025" type="MIDI"/>
+  </INPUTDEVICES>
+  <TRACKCOMPS/>
+  <ARADOCUMENT/>
+  <CONTROLLERMAPPINGS/>
+  <VIEWSTATE minimalTransportBar="1" hiddenClips="" lockedClips="" chordTrackVisible="0"
+             arrangerTrackVisible="0" disabledSearchLibraries="" enabledTrackTags=""
+             currentSidePanel="Search" viewleft="61.62371658840599" viewright="96.41467024863155"
+             midiEditorShown="0" tracktop="0.0"/>
+  <EDITMIXGROUPS/>
+  <AUDIOEDITING/>
+  <ARRANGERTRACK name="Arranger" id="1116">
+    <MACROPARAMETERS id="1118"/>
+    <MODIFIERS/>
+  </ARRANGERTRACK>
+  <TEMPOTRACK name="Global" id="1121">
+    <MACROPARAMETERS id="1123"/>
+    <MODIFIERS/>
+  </TEMPOTRACK>
+  <MARKERTRACK id="1007">
+    <MACROPARAMETERS id="1009"/>
+    <MODIFIERS/>
+  </MARKERTRACK>
+  <CHORDTRACK name="Chords" id="1126">
+    <MACROPARAMETERS id="1128"/>
+    <MODIFIERS/>
+  </CHORDTRACK>
+  <TRACK id="1012" midiVProp="0.28125" midiVOffset="0.359375" colour="ffff0000"
+         height="60.25680848484583">
+    <MACROPARAMETERS id="1014"/>
+    <MODIFIERS/>
+    <MIDICLIP name="Track 1 Recording 1" start="0.0" length="39.88413989998286"
+              offset="0.0" id="1004" sync="0" colour="ffff0000" currentTake="0"
+              speed="1.0">
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="48" b="0.0" l="8.061686594108116" v="50" c="0"/>
+        <NOTE p="45" b="0.0" l="8.058353260774103" v="65" c="0"/>
+        <NOTE p="55" b="7.86663603175333" l="8.185007895687402" v="113" c="0"/>
+        <NOTE p="40" b="7.879969365086348" l="8.273275010196814" v="75" c="0"/>
+        <NOTE p="47" b="15.78492308389993" l="8.403312303850422" v="79" c="0"/>
+        <NOTE p="43" b="15.81991326303775" l="8.261377753960913" v="42" c="0"/>
+        <NOTE p="50" b="23.68489596938262" l="8.31140085600358" v="110" c="0"/>
+        <NOTE p="54" b="23.68822930271663" l="8.361723458046985" v="67" c="0"/>
+        <NOTE p="45" b="31.79994800679297" l="8.473032328787063" v="79" c="0"/>
+        <NOTE p="48" b="31.86163744216275" l="8.229736664394899" v="79" c="0"/>
+        <NOTE p="40" b="39.88474045463085" l="8.045161012466146" v="66" c="0"/>
+        <NOTE p="59" b="39.90819921086869" l="8.2847337664316" v="117" c="0"/>
+        <NOTE p="43" b="47.71992448183887" l="8.303160599762123" v="50" c="0"/>
+        <NOTE p="47" b="47.72659114850386" l="8.273124343525829" v="102" c="0"/>
+        <NOTE p="50" b="55.61716583331307" l="10.65830516665604" v="125" c="0"/>
+        <NOTE p="54" b="55.62216583331105" l="10.66472466665801" v="122" c="0"/>
+        <NOTE p="45" b="55.63216583331309" l="10.67473399999168" v="125" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <MIDICLIP name="Track 1 Recording 1" start="40.2" length="39.88413989998286"
+              offset="0.0" id="1019" sync="0" colour="ffff0000" currentTake="0"
+              speed="1.0">
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="48" b="0.0" l="8.061686594108116" v="50" c="0"/>
+        <NOTE p="45" b="0.0" l="8.058353260774103" v="65" c="0"/>
+        <NOTE p="55" b="7.86663603175333" l="8.185007895687402" v="113" c="0"/>
+        <NOTE p="40" b="7.879969365086348" l="8.273275010196814" v="75" c="0"/>
+        <NOTE p="47" b="15.78492308389993" l="8.403312303850422" v="79" c="0"/>
+        <NOTE p="43" b="15.81991326303775" l="8.261377753960913" v="42" c="0"/>
+        <NOTE p="50" b="23.68489596938262" l="8.31140085600358" v="110" c="0"/>
+        <NOTE p="54" b="23.68822930271663" l="8.361723458046985" v="67" c="0"/>
+        <NOTE p="45" b="31.79994800679297" l="8.473032328787063" v="79" c="0"/>
+        <NOTE p="48" b="31.86163744216275" l="8.229736664394899" v="79" c="0"/>
+        <NOTE p="40" b="39.88474045463085" l="8.045161012466146" v="66" c="0"/>
+        <NOTE p="59" b="39.90819921086869" l="8.2847337664316" v="117" c="0"/>
+        <NOTE p="43" b="47.71992448183887" l="8.303160599762123" v="50" c="0"/>
+        <NOTE p="47" b="47.72659114850386" l="8.273124343525829" v="102" c="0"/>
+        <NOTE p="50" b="55.61716583331307" l="10.65830516665604" v="125" c="0"/>
+        <NOTE p="54" b="55.62216583331105" l="10.66472466665801" v="122" c="0"/>
+        <NOTE p="45" b="55.63216583331309" l="10.67473399999168" v="125" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <PLUGIN type="vst" uid="53664c62" filename="C:\Program Files\VstPlugins\LABS (64 Bit).dll"
+            name="LABS (64 Bit)" manufacturer="Spitfire Audio" windowLocked="1"
+            id="1131" enabled="1" windowX="80" windowY="103" programNum="0"
+            state="6392.CMlaKA....fQBMDZ....ALkYLIF.ALPA....A..............................................................................................................................................................................FXY0PxDxSX...7vTXhMmO7zTQTEDHlEVaowVd8HxPn8VZxIBHtEVak0iHL8lamIBHvI2ajU2Xz0zajUVOh.iHfXWYxMWZu4VOhDiKv3RLh.Bcgc1b8HRLvTCLv.CL5X0aiEFayIBHs8FYoYVZkQVOh.iHu3COUkDH0k1booWY8HRLh.RcoM1arwVXvMWYj0iHwHxK9vSPRQURCMkO7LUQTQURNcDHoQVOh.2WykmaiQ0aTUVav8lHfXWXrUWY8HRLh7hO7LUQTQURNcDHoQVOh.2Wjkmag0VZiMmUkw1aikFc40zajUlHfXWXrUWY8HxPO0DTRUzTSUDQfXUQL8zPIQUVffTRGgjHu3COSUDUTkjSGARZj0iHv80bn8lbzIEUM8FYkIBH1EFa0UVOhzRLh7hO7LUQTQURNcDHoQVOh.2W1UFauMVZzk2P0ImckIBH1EFa0UVOhvTRNUTPRAhUEwzSCkDUYIxK9vyTEQEUI4zQfjFY8HBbe0VZ3UlbAQlcg41XkQlHfXWXrUWY8HRLh7hO7LUQTQURNcDHoQVOh.2WskFdkI2Qr8lXgwlHfXWXrUWY8HRLh7hO7LUQTQURNcDHoQVOh.2WskFdkIGSuM1Zh.hcgwVck0iHvHxK9vyTEQEUI4zQfjFY8HBbe0VZ3UlbPE1YkIBH1EFa0UVOhHxK9vyTEQEUI4zQfjFY8HBbeElbzk1XL81XqIBH1EFa0UVOh.iHu3COSUDUTkjSGARZj0iHv8UXxQWZiAUXmUlHfXWXrUWY8HhHu3COSUDUTkjSGARZj0iHv8EagMGcSUFakMFckQFTxkVagIWdAIGcoMlHfXWXrUWY8HBLh7hO7LUQTQURNcDHoQVOh.2WskFYoMDZg4lakwlHfXWXrUWY8HBLh7hO7LUQTQURNcDHoQVOh.2WyUFakMFckQFUgc1bh.hcgwVck0iHV81Xgw1bh7hO7LUQTQURNcDHoQVOh.2WlkFazUlbP81bh.hcgwVck0iHaACKfDCL0zkHu3COSUDUTkjSGARZj0iHv8EbxU1bkQGTuMmHfXWXrUWY8HxVvvBHvzkHu3COSUDUTkjSGARZj0iHv8UY181Pu4FcgklakIGTuMmHfXWXrUWY8HxVcIxK9vyTEQEUI4zQfjFY8HBbe81XzElckIBH1EFa0UVOh.iHu3COSUDUTkjSGARZj0iHv80ajU1bzkjajk1XkMmHfXWXrUWY8HBLrDCKxvxLrPCK0vhMrbCK3vRNrDCLrDSLrDiLrDyLrDCMrDSMrDiMrDyMrDCNrDSNrHCLrHSLrHiLrHyLrHCMrHSMrHiMrHyMrHCNrHSNrLCLrLSLrLiLrLyLrLCMrLSMrLiMrLyMrLCNrLSNrPCLrPSLrPiLrPyLrPCMrPSMrPiMrPyMrPCNrPSNrTCLrTSLrTiLrTyLrTCMrTSMrTiMrTyMrTCNrTSNrXCLrXSLrXiLrXyLrXCMrXSMrXiMrXyMrXCNrXSNrbCLrbSLrbiLrbyLrbCMrbSMrbiMrbyMrbCNrbSNrfCLrfSLrfiLrfyLrfCMrfSMrfiMrfyMrfCNrfSNrjCLrjSLrjiLrjyLrjCMrjSMrjiMrjyMrjCNrjSNrDCLvvRLvDCKw.iLrDCLyvRLvPCKw.SMrDCL1vRLvbCKw.CNrDCL4vRLw.CKwDSLrDSLxvRLwLCKwDCMrDSL0vRLwXCKwDyMrDSL3vRLwjCKwHCLrDiLwvRLxHCKwHyLrDiLzvRLxTCKwHiMrDiL2vRLxfCKwHSNrDyLvvRLyDCKwLiLrDyLyvRLyPCKwLSMrDyL1vRLybCKwLCNrDyL4vRLz.CKwPSLrDCMxvRLzLCKwPCMrDCM0vRLzXCKwPyMrDCM3vRLzjCKwTCLrDSMwvRL0HCKwTyLrDSMzvRL0TCKwTiMrDSM2vRL0fCKwTSNrDiMvvRL1DCKwXiLrDiMyvRL1PCKwXSMrDiM1vRL1bCKwXCNrDiM4vRL2.CKwbSLrDyMxvRL2LCKwbCMrDyM0vRL2XCKwbyMrDyM3vRL2jCKwfCLrDCNwvRL3HCKwfyLrDCNzvRL3TCKwfiMrDCN2vRL3fCKwfSNrDSNvvRL4DCKwjiLrDSNyvRL4PCKwjSMrDSN1vRL4bCKwjCNrDSN4vhLv.CKx.SLrHCLxvhLvLCKx.CMrHCL0vhLvXCKx.yMrHCL3vhLvjCKxDCLrHSLwvhLwHCKxDyLrHSLzvhLwTCKxDiMrHSL2vhLwfCKxDSNrHiLvvhLxDCKxHiLrHiLyvhLxPCKxHSMrHiL1vhLxbCKxHCNrHiL4vhLy.CKxLSLrHyLxvhLyLCKxLCMrHyL0vhLyXCKxLyMrHyL3vhLyjCKxPCLrHCMwvhLzHCKxPyLrHCMzvhLzTCKxPiMrHCM2vhLzfCKxPSNrHSMvvhL0DCKxTiLrHSMyvhL0PCKxTSMrHSM1vhL0bCKxTCNrHSM4vhL1.CKxXSLrHiMxvhL1LCKxXCMh7hO7DjTTkzP9vyTEQEUI4zQfjFY8HRXe4VXsUlHfXWXrUWY8HBSAIzTeMDZuklbh7hO7LUQTQURNcDHoQVOhD1W1Ulbyk1atIBH1EFa0UVOhDiM2byMzbiLh7hO7LUQTQURNcDHoQVOhD1WzUVavwVXzUVRjgmHfXWXrUWY8HBLh7hO7LUQTQURNcDHoQVOhD1WuQVYyQmHfXWXrUWY8HhTEYUQRIjHu3COSUDUTkjSGARZj0iHg8UXiQWZ1UlHfXWXrUWY8HhLh7hO7LUQTQURNcDHoQVOhD1Wzc2aHElajUFYh.hcgwVck0iHvHxK9vyTEQEUI4zQfjFY8HRXeEVcz8VSgsVYUAmHfXWXrUWY8HBLh7hO7LUQTQURNcDHoQVOhP2WzkGbkIBH1EFa0UVOh.iHu3COSUDUTkjSGARZj0iHz8UYtElXrUFYh.hcgwVck0iHwHxK9vyTEQEUI4zQfjFY8HBcewVXzMFZh.hcgwVck0iHvHxK9vyTEQEUI4zQfjFY8HBcesVY4M2coQ2XnIBH1EFa0UVOh.iHu3COSUDUTkjSGARZj0iHz8UaoQVZCgVXt4VYrIBH1EFa0UVOhDiHu3COSUDUTkjSGARZj0iHz8kckwlQx8Vah.hcgwVck0iHwHxK9vyTEQEUI4zQfjFY8HBceYWYrQ0ah.hcgwVck0iHwHyMh7hO7LUQTQURNcDHoQVOhP2WiMlHfXWXrUWY8HxLxHxK9vyTEQEUI4zQfjFY8HBceM1XVEFa0UlQx8Vah.hcgwVck0iHvHxK9vyTEQEUI4zQfjFY8HBceM1XVEFa0UFUuIBH1EFa0UVOhDiL2HxK9vyTEQEUI4zQfjFY8HBceMGbkUFYFI2asIBH1EFa0UVOh.iHu3COSUDUTkjSGARZj0iHz80bvUVYjQ0ah.hcgwVck0iHv3RMh7hO7LUQTQURNcDHoQVOhP2WvI2amIWXsMDZg41YkIBH1EFa0UVOh.iHu3COSUDUTkjSGARZj0iHxI2WzkVak8VczIBH1EFa0UVOhzRLh7hO7LUQTQURNcDHoQVOhHmbe4VYocFZh8Vcx0TZtIBH1EFa0UVOhLSNh7hO7LUQTQURNcDHoQVOhHmbe4VYocFZh8Vcx0TX3IBH1EFa0UVOhfSLh7hO7LUQTQURNcDHoQVOhHmbeU2bk4TYocFZh8VcxIBH1EFa0UVOh.iHu3COSUDUTkjSGARZj0iHxI2Wi8VctQmHfXWXrUWY8HRKwHxK9vyTEQEUI4zQfjFY8Hhbx8UZtMlHfXWXrUWY8HRLh7hO7LUQTQURNcDHoQVOhHmbewVX4UlbyIBH1EFa0UVOhDiHu3COSUDUTkjSGARZj0iHxI2WmEVZtIBH1EFa0UVOhDiHu3COSUDUTkjSGARZj0iHxI2WyQWXxQmHfXWXrUWY8HBLh7hO7LUQTQURNcDHoQVOhHmbeMWdtMlHfXWXrUWY8HBLh7hO7LUQTQURNcDHoQVOhHmbeAGagkmHfXWXrUWY8HBLh7hO7LUQTQURNcDHoQVOhHmbesVY4M2coQ2XnYjbu0lHfXWXrUWY8HRKwHxK9vyTEQEUI4zQfjFY8Hhbx80Zkk2b2kFcigFUuIBH1EFa0UVOhzRLh7hO7LUQTQURNcDHoQVOhHmbesVY4M2coQ2XnQ0ah.hcgwVck0iHsDiHu3COSUDUTkjSGARZj0iHxI2Ws8FYkIBH1EFa0UVOh.iHu3COSUDUTkjSGARZj0iHx8UaoQVZCgVXt4VYrIBH1EFa0UVOh.iHu3COSUDUTkjSGARZj0iHx8EcxElayA2ayUlHfXWXrUWY8HBLh7hO7LUQTQURNcDHoQVOhH2WrEVdkIGUxElayA2ayUlHfXWXrUWY8HBLh7hO7LUQTQURNcDHoQVOhj1WkgGbxU1byk1atIBH1EFa0UVOhDiHu3COSUDUTkjSGARZj0iHo8EY44VXsk1XyIBH1EFa0UVOhDiHu3COSUDUTkjSGARZj0iHo8kbkYWYxIlHfXWXrUWY8HBLh7hO7LUQTQURNcDHoQVOhj1WxUFakE1bkIBH1EFa0UVOh.iK0HxK9vyTEQEUI4zQfjFY8HRZeQWZmgFch.hcgwVck0iHv3RMh7hO7LUQTQURNcDHoQVOhj1W1klXxEFcuIBH1EFa0UVOhDiHu3COSUDUTkjSGARZj0iHo8kcgIWZgQWZu4lHfXWXrUWY8HBLh7hO7LUQTQURNcDHoQVOhL2WvElah.hcgwVck0iHv3RMh7hO7LUQTQURNcDHoQVOhL2W2kFYzglHfXWXrUWY8HBLtTiHu3COSUDUTkjSGARZj0iHy8kYrkFbh.hcgwVck0iHvHxK9vSSIgkO7LUQTQURNcDHoQVOhz1WsEVZtIBH1EFa0UVOhDiHfzVZikDY8HRLh7hO7LUQTQURNcDHoQVOhT1WsEVZtIBH1EFa0UVOhDiHfzVZikDY8HRLh7hO7LUQTQURNcDHoQVOhH1WsEVZtIBH1EFa0UVOh.iHfzVZikDY8HRLh7hO7LUQTQURNcDHoQVOhz1WgwFcwHBH1EFa0UVOh.iHfzVZikDY8HhLh7hO7LUQTQURNcDHoQVOhT1WgwFcwHBH1EFa0UVOh.iHfzVZikDY8HhLh7hO7LUQTQURNcDHoQVOhH1WgwFcwHBH1EFa0UVOhzRLh.RaoMVRj0iHxHxK9vyTEQEUI4zQfjFY8HRaeEFazIiHfXWXrUWY8HBLh.RaoMVRj0iHyHxK9vyTEQEUI4zQfjFY8HRYeEFazIiHfXWXrUWY8HBLh.RaoMVRj0iHyHxK9vyTEQEUI4zQfjFY8HhXeEFazIiHfXWXrUWY8HRKwHBHsk1XIQVOhLiHu3COSUDUTkjSGARZj0iHs8UXrQ2Lh.hcgwVck0iHvHBHsk1XIQVOhPiHu3COSUDUTkjSGARZj0iHk8UXrQ2Lh.hcgwVck0iHvHBHsk1XIQVOhPiHu3COSUDUTkjSGARZj0iHh8UXrQ2Lh.hcgwVck0iHsDiHfzVZikDY8HBMh7hO77RSIgkO77RPRQURC4COuDjTTkzPS4COPEjTA0TQTUjTS4COPEjTA0DHoQVOhb1WmEVZtIBH1EFa0UVOhDiHfL1X8HxMh7hO7.UPRETSfjFY8HxYeAWXtIBH1EFa0UVOh.iK0HBHiMVOhDCLh7hO7.UPRETSfjFY8HxYeQWctUlHfXWXrUWY8HBLh.xXi0iHsDiHu3COPEjTA0DHoQVOhj1WxUlckImXh.hcgwVck0iHvHBHiMVOhDSNh7hO7.UPRETSfjFY8HRZeQWZmgFch.hcgwVck0iHv3RMh.xXi0iHwfiHu3COPEjTA0DHoQVOhj1WyAWYkQlHfXWXrUWY8HBLh.xXi0iHsDiHu3COPEjTA0DHoQVOhj1WxUFakE1bkIBH1EFa0UVOh.iK0HBHiMVOhDyMh7hO7.UPRETSfjFY8HRZeUFdvIWYyMWZu4lHfXWXrUWY8HRLh.xXi0iHwDiHu3COPEjTA0DHoQVOhj1Wjkmag0VZiMmHfXWXrUWY8HRLh.xXi0iHwHxK9vCTAIUPMARZj0iHo8kcgIWZgQWZu4lHfXWXrUWY8HBLh.xXi0iHx.iHu3COPEjTA0DHoQVOhj1W1klXxEFcuIBH1EFa0UVOhDiHfL1X8HhLwHxK9vCTAIUPMARZj0iHo8UYtYWXzQmHfXWXrUWY8HBLtDSMzLiLw.CMzXCNyPSM1PiHfL1X8HRKwHxK9vCTAIUPMARZj0iHo8UYtYGYkMlHfXWXrUWY8HBLtfSMv.CLxjCMzPiM4PSMwjiHfL1X8HRKwHxK9vCTAIUPMARZj0iHo8UYtY2b0MmHfXWXrUWY8HRLh.xXi0iHsDiHu3COPEjTA0DHoQVOhj1Wk4lcxUFah.hcgwVck0iHv3xM1XCM1jCLvDyM2.CLwjSMh.xXi0iHsDiHu3COPEjTA0DHoQVOhj1WskFdykVavwVYh.hcgwVck0iHv3RMh.xXi0iHsDiHu3COPEjTA0DHoQVOhL2WlwVZvIBH1EFa0UVOh.iHfL1X8HRKwHxK9vCTAIUPMARZj0iHy80coQFcnIBH1EFa0UVOh.iK0HBHiMVOhzRLh7hO7.UPRETSfjFY8HxbeAWXtIBH1EFa0UVOh.iK0HBHiMVOhzRLh7hO7.UPRETSfjFY8HRZeQVYrEVdh.hcgwVck0iHvHBHiMVOhzRLh7hO7.UPRETSfjFY8HRZeEVauUmazIBH1EFa0UVOh.iHfL1X8HRKwHxK9vCTAIUPMARZj0iHo8EYoMGcuIGch.hcgwVck0iHvHBHiMVOhzRLh7hO7.UPRETSfjFY8HRZewVcyglUkImXh.hcgwVck0iHvHBHiMVOhzRLh7hO7.UPRETSfjFY8HRZeAWYjY2arIBH1EFa0UVOh.iK0HBHiMVOhzRLh7hO7.UPRETSfjFY8HRZeAWYjQTdtIBH1EFa0UVOh.iK0HBHiMVOhzRLh7hO7.UPRETSfjFY8HRZewVYtcFcnIBH1EFa0UVOh.iHfL1X8HRKwHxK9vCTAIUPMARZj0iHo8Eco0VYME1XnklakIBH1EFa0UVOh.iHfL1X8HRKwHxK9vCTAIUPMARZj0iHo80bzIWYzMFZh.hcgwVck0iHvHBHiMVOhzRLh7hO7.UPRETSfjFY8HRZeM2alQGTkQVXrIBH1EFa0UVOh.iHfL1X8HRKwHxK9vCTAIUPMARZj0iHo8kbkMGbu41bkIBH1EFa0UVOh.iHfL1X8HRKwHxK9vCTAIUPMARZj0iHo8UagwFakQmHfXWXrUWY8HBLh.xXi0iHsDiHu3COPEjTA0DHoQVOhj1WyQ2avUVS0QWYh.hcgwVck0iHvHBHiMVOhzRLh7hO7.UPRETSfjFY8HRZeQVZxU1Xzk1atIBH1EFa0UVOh.iHfL1X8HRKwHxK9vCTAIUPMARZj0iHo8EavYTZrQWYxIBH1EFa0UVOh.iHfL1X8HRKwHxK9vCTAIUPMARZj0iHo8EbuIGcg0VYtQ2ah.hcgwVck0iHvHBHiMVOhzRLh7hO7.UPRETSfjFY8HRZe0VYzE1VwfSWh.hcgwVck0iHvHBHiMVOhzRLh7hO7.UPRETSfjFY8HRZe0VYzE1VwjSWh.hcgwVck0iHvHBHiMVOhzRLh7hO7.UPRETSfjFY8HRZe0VYzE1Vx.SWh.hcgwVck0iHvHBHiMVOhzRLh7hO7.UPRETSfjFY8HRZe0VYzE1VxDSWh.hcgwVck0iHvHBHiMVOhzRLh7hO7.UPRETSfjFY8HRZe0VYzE1VxHSWh.hcgwVck0iHvHBHiMVOhzRLh7hO7.UPRETSfjFY8HRZe0VYzE1VxLSWh.hcgwVck0iHvHBHiMVOhzRLh7hO7.UPRETSfjFY8HRZe0VYzE1VxPSWh.hcgwVck0iHvHBHiMVOhzRLh7hO7.UPRETSfjFY8HRZe0VYzE1VxTSWh.hcgwVck0iHvHBHiMVOhzRLh7hO7.UPRETSfjFY8HRZe0VYzE1VxXSWh.hcgwVck0iHvHBHiMVOhzRLh7hO7.UPRETSfjFY8HRae0VXo4lHfXWXrUWY8HRLh.xXi0iHxHiHu3COPEjTA0DHoQVOhz1WgwFcwHBH1EFa0UVOh.iHfL1X8HhLyHxK9vCTAIUPMARZj0iHs8UXrQmLh.hcgwVck0iHvHBHiMVOhHCMh7hO7.UPRETSfjFY8HRaeEFazMiHfXWXrUWY8HBLh.xXi0iHxTiHu3COu.UPRETSEQUQRMkO77BSgI1b9.."
+            base64:layout="55.LETVOUEU..P.A7TUTAUUTME..DP.BU0T.Df.o4FYkgG.ATP......vVX48VczAP.ET.SfHE...">
+      <MACROPARAMETERS id="1132"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1017" enabled="1">
+      <MACROPARAMETERS id="1018"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1021" enabled="1">
+      <MACROPARAMETERS id="1022"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1025" midiVProp="0.28125" midiVOffset="0.359375" colour="ffffaa00"
+         height="57.93923892773639">
+    <MACROPARAMETERS id="1027"/>
+    <MODIFIERS/>
+    <MIDICLIP name="Track 2 Recording 1" start="40.2" length="40.2" offset="2.399999999999999"
+              id="1029" sync="0" colour="ffffaa00" currentTake="0" speed="1.0">
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="45" b="3.981969499990029" l="8.031430166662787" v="79" c="0"/>
+        <NOTE p="48" b="3.996804666659727" l="7.911569333324834" v="69" c="0"/>
+        <NOTE p="55" b="11.78337166665347" l="8.215272666657256" v="122" c="0"/>
+        <NOTE p="40" b="11.83698499998331" l="8.19322549999319" v="75" c="0"/>
+        <NOTE p="47" b="19.87016033331361" l="7.586778999990813" v="110" c="0"/>
+        <NOTE p="43" b="19.91517033331101" l="7.673451666660185" v="117" c="0"/>
+        <NOTE p="54" b="27.97528133333315" l="8.793064833325843" v="122" c="0"/>
+        <NOTE p="38" b="28.0" l="8.793579333329646" v="117" c="0"/>
+        <NOTE p="45" b="36.61830099999074" l="8.265276166663767" v="102" c="0"/>
+        <NOTE p="48" b="36.62327449999006" l="8.225289833332369" v="83" c="0"/>
+        <NOTE p="59" b="44.05012616662293" l="7.223417333325415" v="125" c="0"/>
+        <NOTE p="36" b="44.11013616662338" l="7.248378999996319" v="71" c="0"/>
+        <NOTE p="43" b="52.0" l="8.389965333323431" v="75" c="0"/>
+        <NOTE p="47" b="52.02499533333321" l="8.349972166658205" v="110" c="0"/>
+        <NOTE p="38" b="60.42687033327434" l="10.93162199998915" v="102" c="0"/>
+        <NOTE p="54" b="60.44520416660914" l="10.86328783332344" v="122" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <PLUGIN type="vst" uid="5776474a" filename="C:\Program Files\VstPlugins\DSK_Saxophones_-_win64\DSK Saxophones - win64\DSK Saxophones.dll"
+            name="DSK Saxophones" manufacturer="DSK Music" windowLocked="1"
+            id="1036" enabled="1" windowX="80" windowY="103" state="1936.CMlaKA....fQBMDZ....AbkcGoD...f2..................................................................................................................................................................................fAvO0avIWXt8FHSEFdtz1bkA.QrB..DwJ..D....P.....A....D.....H....f....H..........................7kXd9...........A....7lDCpC...........8+++O.....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................B.........................P.....................................................+A...7G.........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................A....................................................7G...ve.........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................."
+            base64:layout="90.LETVOUEU..P.A7TUTAUUTME..DP.BU0T.Df.o4FYkgG.ATP......vVX48VczAP.nTPLfHCHy.BMfTCH1.xMffCH4.RLv.RLw.RLx.RLy.RLz.RL0.RL1...">
+      <MACROPARAMETERS id="1037"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1030" enabled="1" volume="0.3054732978343964"
+            windowX="80" windowY="103" windowLocked="0">
+      <MACROPARAMETERS id="1031"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1034" enabled="1">
+      <MACROPARAMETERS id="1035"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1038" midiVProp="0.28125" midiVOffset="0.359375" colour="ffaaff00"
+         height="57.93923892773639">
+    <MACROPARAMETERS id="1040"/>
+    <MODIFIERS/>
+    <MIDICLIP name="Track 3 Recording 1" start="40.2" length="41.41999999995988"
+              offset="0.0" id="1067" sync="0" colour="ffaaff00" currentTake="0"
+              speed="1.0">
+      <QUANTISATION/>
+      <GROOVE/>
+      <SEQUENCE ver="1" channelNumber="1">
+        <NOTE p="69" b="0.0" l="0.5488621666666802" v="127" c="0"/>
+        <NOTE p="71" b="0.4488721666648416" l="0.2250131666642119" v="113"
+              c="0"/>
+        <NOTE p="71" b="0.9746081666644386" l="0.5159221666660159" v="113"
+              c="0"/>
+        <NOTE p="64" b="1.465547499995409" l="0.5604803333365851" v="117" c="0"/>
+        <NOTE p="69" b="1.94054349999503" l="0.478297500000437" v="125" c="0"/>
+        <NOTE p="71" b="2.355537333326538" l="0.2116769999975077" v="122" c="0"/>
+        <NOTE p="71" b="2.890560499993626" l="0.4932848333313302" v="113" c="0"/>
+        <NOTE p="64" b="3.39278499999304" l="0.5305219999960684" v="117" c="0"/>
+        <NOTE p="69" b="3.898865499992411" l="0.5660991666657793" v="122" c="0"/>
+        <NOTE p="71" b="4.39053349999358" l="0.2116640000016048" v="122" c="0"/>
+        <NOTE p="71" b="4.905472666659691" l="0.4650391666655196" v="122" c="0"/>
+        <NOTE p="64" b="5.400517499989604" l="0.5450274999990654" v="117" c="0"/>
+        <NOTE p="69" b="5.942211666657698" l="0.5066405000009837" v="125" c="0"/>
+        <NOTE p="71" b="6.375515666656014" l="0.1850218333341473" v="122" c="0"/>
+        <NOTE p="71" b="6.910497833323163" l="0.4683735000010785" v="122" c="0"/>
+        <NOTE p="64" b="7.395532999989584" l="0.5433114999990067" v="117" c="0"/>
+        <NOTE p="69" b="7.917124333322448" l="0.6076008333305509" v="127" c="0"/>
+        <NOTE p="71" b="8.453750999987889" l="0.195965333335451" v="122" c="0"/>
+        <NOTE p="71" b="8.965521333323522" l="0.4749679999955987" v="113" c="0"/>
+        <NOTE p="64" b="9.473832999989412" l="0.4450006666623523" v="117" c="0"/>
+        <NOTE p="69" b="9.967180166652724" l="0.6250046666658307" v="127" c="0"/>
+        <NOTE p="71" b="10.49218866665464" l="0.1883356666651963" v="122" c="0"/>
+        <NOTE p="71" b="10.97719016665573" l="0.4666701666640876" v="122" c="0"/>
+        <NOTE p="64" b="11.48552933332182" l="0.5349650000001276" v="110" c="0"/>
+        <NOTE p="69" b="11.96051616665167" l="0.5516333333313526" v="127" c="0"/>
+        <NOTE p="71" b="12.43883333331996" l="0.1949804999973566" v="122" c="0"/>
+        <NOTE p="71" b="12.95052049998625" l="0.4183203333286656" v="122" c="0"/>
+        <NOTE p="64" b="13.41549899998094" l="0.586688833336666" v="102" c="0"/>
+        <NOTE p="69" b="13.93384866665019" l="0.5133246666658522" v="122" c="0"/>
+        <NOTE p="71" b="14.37885933331897" l="0.1933093333324649" v="122" c="0"/>
+        <NOTE p="71" b="14.90551333331466" l="0.4533123333385447" v="127" c="0"/>
+        <NOTE p="64" b="15.4021816666497" l="0.5499906666652095" v="117" c="0"/>
+        <NOTE p="69" b="15.94214399998206" l="0.5499930000011517" v="127" c="0"/>
+        <NOTE p="71" b="16.42384099998071" l="0.2050016666665613" v="122" c="0"/>
+        <NOTE p="71" b="16.94549999998314" l="0.4716608333304322" v="122" c="0"/>
+        <NOTE p="64" b="17.47547216665195" l="0.5917251666626981" v="117" c="0"/>
+        <NOTE p="69" b="18.00049533331398" l="0.5416633333334175" v="127" c="0"/>
+        <NOTE p="71" b="18.48549749997771" l="0.2183303333367803" v="122" c="0"/>
+        <NOTE p="71" b="18.9938113333116" l="0.4099709999991319" v="122" c="0"/>
+        <NOTE p="64" b="19.43880166664985" l="0.4700456666614627" v="110" c="0"/>
+        <NOTE p="69" b="19.91717833330738" l="0.5416245000014897" v="127" c="0"/>
+        <NOTE p="71" b="20.38884283331117" l="0.1983196666666771" v="122" c="0"/>
+        <NOTE p="71" b="20.89047316664286" l="0.4466970000036383" v="122" c="0"/>
+        <NOTE p="64" b="21.36882333331081" l="0.5683101666666772" v="117" c="0"/>
+        <NOTE p="69" b="21.89049399998082" l="0.5349921666614392" v="127" c="0"/>
+        <NOTE p="71" b="22.34547966664317" l="0.1950386666673296" v="122" c="0"/>
+        <NOTE p="71" b="22.90195999997772" l="0.5583853333306763" v="122" c="0"/>
+        <NOTE p="64" b="23.47046016664505" l="0.4482658333290601" v="125" c="0"/>
+        <NOTE p="69" b="23.93215983330842" l="0.5732891666654325" v="122" c="0"/>
+        <NOTE p="71" b="24.43711016664233" l="0.2066703333305924" v="113" c="0"/>
+        <NOTE p="71" b="24.95048899997498" l="0.4633306666619319" v="113" c="0"/>
+        <NOTE p="64" b="25.42215483330408" l="0.5049546666699172" v="117" c="0"/>
+        <NOTE p="69" b="25.91547299997396" l="0.4416834999998684" v="127" c="0"/>
+        <NOTE p="71" b="26.38547183330624" l="0.1983311666632801" v="113" c="0"/>
+        <NOTE p="71" b="26.89714533330486" l="0.4466569999992061" v="122" c="0"/>
+        <NOTE p="64" b="27.38549366663665" l="0.4233056666665505" v="117" c="0"/>
+        <NOTE p="69" b="27.86381233330121" l="0.4033300000052549" v="127" c="0"/>
+        <NOTE p="71" b="28.38215283330373" l="0.201614833331405" v="113" c="0"/>
+        <NOTE p="71" b="28.8987706666403" l="0.42837233332952" v="122" c="0"/>
+        <NOTE p="64" b="29.39879783330041" l="0.5033344999992551" v="117" c="0"/>
+        <NOTE p="69" b="29.90713233330068" l="0.5299158333370286" v="122" c="0"/>
+        <NOTE p="71" b="30.3754651666377" l="0.1732959999966113" v="113" c="0"/>
+        <NOTE p="71" b="30.86712783330435" l="0.4016778333304103" v="113" c="0"/>
+        <NOTE p="64" b="31.33210833330213" l="0.541654666664428" v="125" c="0"/>
+        <NOTE p="69" b="31.89542866663609" l="0.6083918333327603" v="127" c="0"/>
+        <NOTE p="71" b="32.43712949997007" l="0.2083304999966202" v="122" c="0"/>
+        <NOTE p="71" b="32.94877216663403" l="0.4733391666680546" v="122" c="0"/>
+        <NOTE p="64" b="33.4537921666315" l="0.4200091666674268" v="117" c="0"/>
+        <NOTE p="69" b="33.92546149996603" l="0.5860644999969082" v="127" c="0"/>
+        <NOTE p="71" b="34.41708699996495" l="0.2017131666646748" v="113" c="0"/>
+        <NOTE p="71" b="34.92544033329948" l="0.4366850000011908" v="122" c="0"/>
+        <NOTE p="64" b="35.39713849996255" l="0.4816631666714386" v="117" c="0"/>
+        <NOTE p="69" b="35.89546066663056" l="0.5683164999966976" v="122" c="0"/>
+        <NOTE p="71" b="36.37376066663182" l="0.1950349999939789" v="122" c="0"/>
+        <NOTE p="71" b="36.8787708332969" l="0.438357500000464" v="122" c="0"/>
+        <NOTE p="64" b="37.35046099996575" l="0.5432808333292343" v="117" c="0"/>
+        <NOTE p="69" b="37.84210649996234" l="0.5848128333309432" v="127" c="0"/>
+        <NOTE p="71" b="38.33193066662989" l="0.228189500000255" v="122" c="0"/>
+        <NOTE p="71" b="38.87374649996036" l="0.4516699999991687" v="122" c="0"/>
+        <NOTE p="64" b="39.3603609999594" l="0.5217313333347704" v="117" c="0"/>
+        <NOTE p="69" b="39.89212299995992" l="0.5949726666646313" v="125" c="0"/>
+        <NOTE p="71" b="40.41377133329328" l="0.2043134999985341" v="122" c="0"/>
+        <NOTE p="71" b="40.9287468332935" l="0.4450308333313444" v="113" c="0"/>
+        <NOTE p="64" b="41.40044683329174" l="0.4916506666692442" v="125" c="0"/>
+        <NOTE p="69" b="41.92876999995528" l="0.6166940000033065" v="122" c="0"/>
+        <NOTE p="71" b="42.4636638332895" l="0.2001078333341866" v="113" c="0"/>
+        <NOTE p="71" b="42.95047333329391" l="0.4532994999954099" v="122" c="0"/>
+        <NOTE p="64" b="43.45877383328995" l="0.4016369999984164" v="110" c="0"/>
+        <NOTE p="69" b="43.9751339999563" l="0.5386523333345394" v="125" c="0"/>
+        <NOTE p="71" b="44.45020666662126" l="0.1650114999999062" v="113" c="0"/>
+        <NOTE p="71" b="44.93861466662233" l="0.43346466666965" v="113" c="0"/>
+        <NOTE p="64" b="45.40689616661712" l="0.5552206666713317" v="117" c="0"/>
+        <NOTE p="69" b="45.91201149994929" l="0.5750556666710764" v="122" c="0"/>
+        <NOTE p="71" b="46.42373583328936" l="0.2250404999995226" v="122" c="0"/>
+        <NOTE p="71" b="46.93206683328724" l="0.4533525000018273" v="122" c="0"/>
+        <NOTE p="64" b="47.41377783328639" l="0.4816571666651726" v="117" c="0"/>
+        <NOTE p="69" b="47.91871949995434" l="0.578368666665483" v="122" c="0"/>
+        <NOTE p="71" b="48.42372733328952" l="0.205046333327715" v="113" c="0"/>
+        <NOTE p="71" b="48.91875983328919" l="0.5033346666611322" v="122" c="0"/>
+        <NOTE p="64" b="49.46709933328718" l="0.4466194999986328" v="125" c="0"/>
+        <NOTE p="69" b="49.90705216661779" l="0.5933721666648779" v="127" c="0"/>
+        <NOTE p="71" b="50.44206399995014" l="0.2200198333351437" v="122" c="0"/>
+        <NOTE p="71" b="50.9120883332856" l="0.4312164999949601" v="122" c="0"/>
+        <NOTE p="64" b="51.38496766661441" l="0.4737035000016476" v="110" c="0"/>
+        <NOTE p="69" b="51.88667933328331" l="0.5520896666682091" v="127" c="0"/>
+        <NOTE p="71" b="52.4050834999492" l="0.185287166665745" v="122" c="0"/>
+        <NOTE p="71" b="52.89707499994893" l="0.4266615000021119" v="122" c="0"/>
+        <NOTE p="64" b="53.36851333327984" l="0.4702198333355483" v="117" c="0"/>
+        <NOTE p="69" b="53.88706999994884" l="0.6116440000005241" v="125" c="0"/>
+        <NOTE p="71" b="54.41197099994467" l="0.2017801666685699" v="122" c="0"/>
+        <NOTE p="71" b="54.90372999994452" l="0.4233390000020734" v="122" c="0"/>
+        <NOTE p="64" b="55.36540599994593" l="0.4900003333326168" v="117" c="0"/>
+        <NOTE p="69" b="55.91373549994357" l="0.546668500001033" v="125" c="0"/>
+        <NOTE p="71" b="56.3953994999456" l="0.1883464999961433" v="113" c="0"/>
+        <NOTE p="71" b="56.8837344999456" l="0.4283329999998386" v="122" c="0"/>
+        <NOTE p="64" b="57.39540099994551" l="0.4316034999980332" v="125" c="0"/>
+        <NOTE p="69" b="57.87706183327798" l="0.5466731666668494" v="122" c="0"/>
+        <NOTE p="71" b="58.40705849994538" l="0.2129544999964708" v="122" c="0"/>
+        <NOTE p="71" b="58.88203883327728" l="0.5113779999980181" v="122" c="0"/>
+        <NOTE p="64" b="59.42177916660785" l="0.4569451666672393" v="117" c="0"/>
+        <NOTE p="69" b="59.91016733327312" l="0.4033430000011577" v="122" c="0"/>
+        <NOTE p="71" b="60.39518383327626" l="0.1883921666649258" v="122" c="0"/>
+        <NOTE p="71" b="60.93025283327097" l="0.4501556666673423" v="122" c="0"/>
+        <NOTE p="64" b="61.42533966660238" l="0.4200221666724246" v="125" c="0"/>
+        <NOTE p="69" b="61.89368766660635" l="0.555044499997166" v="127" c="0"/>
+        <NOTE p="71" b="62.35705583327189" l="0.2066660000036791" v="122" c="0"/>
+        <NOTE p="71" b="62.868721833271" l="0.4183300000022427" v="113" c="0"/>
+        <NOTE p="64" b="63.36038899993855" l="0.7299781666642957" v="125" c="0"/>
+      </SEQUENCE>
+      <PATTERNGENERATOR>
+        <PROGRESSION/>
+      </PATTERNGENERATOR>
+    </MIDICLIP>
+    <PLUGIN type="vst" uid="6c496763" filename="C:\Program Files\VstPlugins\SonatinaOrchestraModule-64bit\Sonatina Orchestra.dll"
+            name="Sonatina Orchestra" manufacturer="bigcat" windowLocked="1"
+            id="1049" enabled="1" windowX="80" windowY="103" state="2530.CMlaKA....fQBMDZ....AvVRmMF....5..................................................................................................................................................................................PBBQFHs.xTzIWZtc1bfzBHD8VchwVYfHTXyMmKsMWY.PDq...QrB........................D....P....B....................b+++.L..........D....P........P.A..........P++++C....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................v..........H..........L....D.............................nBA............vqCA....ve....+A........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................f..........z....P.............................................5MD.....+A...7G.........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................B.........fC....A............................................n2P.....7G...ve.........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................."
+            base64:layout="138.LETVOUEU..P.A7TUTAUUTME..DP.BU0T.Df.o4FYkgG.ATP......vVX48VczAP.XUPLfHCHy.BMfTCH1.xMffCH4.RLv.RLw.RLx.RLy.RLz.RL0.RL1.RL2.RL3.RL4.hLv.hLw.hLx.hLy.hLz.hL0.hL1.hL2.hL3.hL4.xLv.xLw.xLx...">
+      <MACROPARAMETERS id="1050"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="volume" id="1043" enabled="1" volume="0.3054732978343964"
+            windowX="80" windowY="103" windowLocked="0">
+      <MACROPARAMETERS id="1044"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1047" enabled="1">
+      <MACROPARAMETERS id="1048"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1051" midiVProp="0.28125" midiVOffset="0.359375" colour="ff00ff00"
+         height="57.93923892773639">
+    <MACROPARAMETERS id="1053"/>
+    <MODIFIERS/>
+    <PLUGIN type="volume" id="1056" enabled="1">
+      <MACROPARAMETERS id="1057"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1060" enabled="1">
+      <MACROPARAMETERS id="1061"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1064" midiVProp="0.28125" midiVOffset="0.359375" colour="ff00ffaa"
+         height="57.93923892773639">
+    <MACROPARAMETERS id="1066"/>
+    <MODIFIERS/>
+    <PLUGIN type="volume" id="1069" enabled="1">
+      <MACROPARAMETERS id="1070"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1073" enabled="1">
+      <MACROPARAMETERS id="1074"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1077" midiVProp="0.28125" midiVOffset="0.359375" colour="ff00aaff"
+         height="57.93923892773639">
+    <MACROPARAMETERS id="1079"/>
+    <MODIFIERS/>
+    <PLUGIN type="volume" id="1082" enabled="1">
+      <MACROPARAMETERS id="1083"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1086" enabled="1">
+      <MACROPARAMETERS id="1087"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1090" midiVProp="0.28125" midiVOffset="0.359375" colour="ff0000ff"
+         height="57.93923892773639">
+    <MACROPARAMETERS id="1092"/>
+    <MODIFIERS/>
+    <PLUGIN type="volume" id="1095" enabled="1">
+      <MACROPARAMETERS id="1096"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1099" enabled="1">
+      <MACROPARAMETERS id="1100"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK id="1103" midiVProp="0.28125" midiVOffset="0.359375" colour="ffaa00ff"
+         height="57.93923892773639">
+    <MACROPARAMETERS id="1105"/>
+    <MODIFIERS/>
+    <PLUGIN type="volume" id="1108" enabled="1">
+      <MACROPARAMETERS id="1109"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <PLUGIN type="level" id="1112" enabled="1">
+      <MACROPARAMETERS id="1113"/>
+      <MODIFIERASSIGNMENTS/>
+    </PLUGIN>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <MIDIVIEWSTATE verticalOffset="0.53125" visibleProportion="0.25" leftTime="40.2"
+                 rightTime="80.39999999999999"/>
+</EDIT>
